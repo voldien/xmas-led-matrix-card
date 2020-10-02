@@ -16,7 +16,6 @@ make install
 
 
 # License
----
 The source code for this project is licensed under the GPL+3 License - see the [LICENSE](LICENSE) file for details.
 The hardware design for this project is under the OSHW License - See [](LICENSE) for more detials.
 
